@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: VilleMC
+  structure:
+    - type: space
+      key: space-1
+      title: VilleMC
+      path: surviville
+      default: true
+      content:
+        directory: ./surviville
