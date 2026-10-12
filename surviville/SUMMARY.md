@@ -37,7 +37,6 @@
   * [In-Game Rewards](getting-started/surviville/rewards.md)
 * [Skyville (Skyblock)](getting-started/skyville/README.md)
   * [Island Teams](getting-started/skyville/quickstart.md)
-  * [Factory](getting-started/skyville/factory.md)
   * [Market](getting-started/skyville/market.md)
   * [Ranks](getting-started/skyville/ranks.md)
 * [Arcadeville (Minigames)](getting-started/arcadeville/README.md)
