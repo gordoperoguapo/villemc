@@ -3,6 +3,7 @@ description: >-
   Each rank comes with different perks. If you purchase a higher tier rank, you
   automatically unlock all perks of lower ranks. You can purchase ranks on
   https://store.villemc.org
+icon: crown
 ---
 
 # Ranks
