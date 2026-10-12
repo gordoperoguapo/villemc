@@ -43,7 +43,7 @@
   * [Ender](getting-started/skyville/ender.md)
   * [Player Vaults](getting-started/skyville/player-vaults.md)
   * [Auction House](getting-started/skyville/auction-house.md)
-  * [How to Play](getting-started/skyville/how-to-play.md)
+  * [How to Play Skyblock](getting-started/skyville/how-to-play-skyblock.md)
 * [Arcadeville (Minigames)](getting-started/arcadeville/README.md)
   * [Island Create](getting-started/arcadeville/quickstart.md)
 * [Parkour](getting-started/quickstart.md)
