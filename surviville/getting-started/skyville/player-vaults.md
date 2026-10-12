@@ -1,5 +1,6 @@
 ---
 description: How to use Player Vaults for extra storage on Skyblock.
+icon: box
 ---
 
 # Player Vaults
