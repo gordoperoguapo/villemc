@@ -1,5 +1,6 @@
 ---
 description: Every island command available to players on Skyblock.
+icon: terminal
 ---
 
 # Island Commands
