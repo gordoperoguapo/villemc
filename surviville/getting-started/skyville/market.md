@@ -1,5 +1,6 @@
 ---
 description: How to use the Market and trade with shopkeepers on Skyblock.
+icon: store
 ---
 
 # Market
