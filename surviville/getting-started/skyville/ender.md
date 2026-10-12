@@ -1,5 +1,6 @@
 ---
 description: How the Ender Dragon fight and Ender Keys work on Skyblock.
+icon: dragon
 ---
 
 # Ender
