@@ -1,5 +1,6 @@
 ---
 description: How to buy and sell items on the Auction House.
+icon: tag
 ---
 
 # Auction House

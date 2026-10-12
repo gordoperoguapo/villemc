@@ -1,3 +1,7 @@
+---
+icon: book
+---
+
 # How to Play Skyblock
 
 ### **Welcome to Skyville**
