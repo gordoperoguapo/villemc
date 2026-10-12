@@ -46,6 +46,7 @@
   * [How to Play Skyblock](getting-started/skyville/how-to-play-skyblock.md)
   * [AFK](getting-started/skyville/afk.md)
   * [The Pit](getting-started/skyville/the-pit.md)
+  * [Minions](getting-started/skyville/minions.md)
 * [Arcadeville (Minigames)](getting-started/arcadeville/README.md)
   * [Island Create](getting-started/arcadeville/quickstart.md)
 * [Parkour](getting-started/quickstart.md)
