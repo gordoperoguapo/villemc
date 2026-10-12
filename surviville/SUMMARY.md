@@ -45,6 +45,7 @@
   * [Auction House](getting-started/skyville/auction-house.md)
   * [How to Play Skyblock](getting-started/skyville/how-to-play-skyblock.md)
   * [AFK](getting-started/skyville/afk.md)
+  * [The Pit](getting-started/skyville/the-pit.md)
 * [Arcadeville (Minigames)](getting-started/arcadeville/README.md)
   * [Island Create](getting-started/arcadeville/quickstart.md)
 * [Parkour](getting-started/quickstart.md)
