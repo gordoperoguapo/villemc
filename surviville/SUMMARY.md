@@ -40,6 +40,7 @@
   * [Market](getting-started/skyville/market.md)
   * [Ranks](getting-started/skyville/ranks.md)
   * [Island Commands](getting-started/skyville/island-commands.md)
+  * [Ender](getting-started/skyville/ender.md)
 * [Arcadeville (Minigames)](getting-started/arcadeville/README.md)
   * [Island Create](getting-started/arcadeville/quickstart.md)
 * [Parkour](getting-started/quickstart.md)
