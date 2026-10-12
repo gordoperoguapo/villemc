@@ -39,6 +39,7 @@
   * [Island Teams](getting-started/skyville/quickstart.md)
   * [Market](getting-started/skyville/market.md)
   * [Ranks](getting-started/skyville/ranks.md)
+  * [Island Commands](getting-started/skyville/island-commands.md)
 * [Arcadeville (Minigames)](getting-started/arcadeville/README.md)
   * [Island Create](getting-started/arcadeville/quickstart.md)
 * [Parkour](getting-started/quickstart.md)
