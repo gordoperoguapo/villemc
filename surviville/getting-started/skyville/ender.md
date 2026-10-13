@@ -5,6 +5,8 @@ icon: dragon
 
 # Ender
 
+<figure><img src="../../.gitbook/assets/2026-10-12_14.57.12.png" alt=""><figcaption></figcaption></figure>
+
 ### **Ender**
 
 The End is Skyville's boss arena. Fight the Ender Dragon, defeat it, and earn an Ender Key. Each key opens a special crate at the `/ender` spawn with exclusive rewards.\
