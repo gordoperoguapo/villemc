@@ -1,4 +1,7 @@
 ---
+description: >-
+  Everything you need to know to start and grow your Skyblock island on
+  Skyville.
 icon: book
 ---
 
@@ -80,13 +83,14 @@ Type **/is upgrades** to spend money on permanent island improvements. There are
 
 ### **The Cobblestone Generator**
 
-Your generator starts simple: 95% cobblestone, 5% coal ore. Upgrade it to unlock better ores:
+Your generator starts simple: mostly stone, some coal ore, and a rare whisper of iridium. The starter mix is 95.9% stone, 4% coal ore, and 0.1% iridium ore. Upgrade it to unlock better ores:
 
-* ✅ **Level 1** ($25K) - Adds Iridium Ore at 1%
-* ✅ **Level 2** ($75K) - Adds Iron Ore at 3%
-* ✅ **Level 3** ($150K) - Adds Lapis at 4%, Iridium at 2%
-* ✅ **Level 4** ($500K) - Adds Gold at 3%, Diamond at 2%, Emerald at 1%
-* ✅ **Level 5** (max) - Adds Redstone at 9%, Ancient Debris at 1%, Iridium at 4%
+* ✅ **Upgrade 1** ($25K) - Adds Iron Ore at 3%. Iridium rises to 0.5%.
+* ✅ **Upgrade 2** ($75K) - Adds Lapis at 4%, Redstone Ore at 3%, Gold Ore at 2%, and Diamond Ore at 1%. Iridium rises to 1%.
+* ✅ **Upgrade 3** ($150K) - Adds Emerald Ore at 1%. Redstone climbs to 6% and iridium rises to 2%.
+* ✅ **Upgrade 4** (max, $500K) - Adds Ancient Debris at 1%. Redstone climbs to 9% and iridium rises to 5%.
+
+The first two upgrades are free: the **First Dig** and **Iron Age** missions in Getting Started grant them.
 
 **Iridium Ore** is special to Skyville. You need a **diamond pickaxe or better** to mine it. Anything weaker and you get nothing.
 
