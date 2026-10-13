@@ -4,6 +4,10 @@ icon: book
 
 # How to Play Skyblock
 
+
+
+<figure><img src="../../.gitbook/assets/2026-10-11_12.01.38.png" alt=""><figcaption></figcaption></figure>
+
 ### **Welcome to Skyville**
 
 Skyblock is all about starting from a small floating island and building it into something massive. You gather resources, complete missions, upgrade your island, recruit a team, and climb the leaderboard. This guide covers the core island gameplay from your first block to the endgame.
