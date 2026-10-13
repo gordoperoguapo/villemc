@@ -4,6 +4,10 @@ icon: robot
 
 # Minions
 
+
+
+<figure><img src="../../.gitbook/assets/2026-06-14_20.51.56 (1).png" alt=""><figcaption></figcaption></figure>
+
 ### **What Are Minions**
 
 Minions are worker helpers you place on your island. They mine, farm, fight, fish, and sell for you automatically while you are online. Right-click a placed minion to open its control panel. Left-click to pick it back up.
