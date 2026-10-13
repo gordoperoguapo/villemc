@@ -150,7 +150,7 @@ This is a damage race. The player who deals the **most damage** wins **3 Reward 
 
 ### **Ranks and Island Perks**
 
-Four ranks, each stacking on the last:
+Four store ranks, each stacking on the last:
 
 * ✅ **Adept** - Anvil, condense, disposal, ender chest, feed, recipe lookup, colored nicknames, 10 personal vaults, Adept kit.
 * ✅ **Sage** - Back, heal, repair, personal time and weather, stonecutter, loom, nearby player check, 15 personal vaults, Sage kit.
@@ -158,6 +158,14 @@ Four ranks, each stacking on the last:
 * ✅ **Luminary** - **God mode** (/god), see other players' inventories, 50 personal vaults, Luminary kit.
 
 Everyone gets **/fly** as a shortcut for island flight.
+
+**Mission ranks (free, earned in game)**
+
+* ⭐ **Spark** - Earned at Tool Up, the fourth Getting Started mission.
+* ⭐ **Wisp** - Earned at Monster Hunter, the eighth Getting Started mission.
+* ⭐ **Nova** - Earned at Graduation, the final Getting Started mission (island level 10,000).
+
+These ranks are earned by playing the Getting Started missions, never bought.
 
 ***
 
