@@ -4,9 +4,7 @@ icon: book
 
 # How to Play Skyblock
 
-
-
-<figure><img src="../../.gitbook/assets/2026-10-11_12.01.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://753896168-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FjIEY1SftWZNIzasGysSf%2Fuploads%2FrUbfFVEuQBxjSgx4N93d%2F2026-10-11_12.01.38.png?alt=media&#x26;token=1ed55073-36b0-4e61-aadb-613932cb5ae7" alt=""><figcaption></figcaption></figure>
 
 ### **Welcome to Skyville**
 
@@ -51,15 +49,13 @@ Your island has a floating hologram above spawn showing the owner, island level,
 
 ### **Missions**
 
-Type **/is missions** to see your mission tracks. There are five tracks, each with five tiers. Finish a tier to get paid automatically, then move on to the next.
+Type **/is missions** to open the missions menu. There are **67 missions** in six chapters: Getting Started, Miner, Farmer, Fisherman, Slayer, and Explorer.
 
-* ✅ **Miner** - Mine stone, cobblestone, and ores. The very first mission just asks you to place an ice block to build a cobblestone generator (pays $1,000). Finishing Miner tier I also upgrades your generator one level for free.
-* ✅ **Farmer** - Plant and harvest crops. Early tiers want carrots and potatoes. Rewards include seeds and golden apples.
-* ✅ **Slayer** - Kill hostile mobs like skeletons, creepers, zombies, and spiders.
-* ✅ **Fisherman** - Catch fish. Rewards include a Beginner's Rod to get you started.
-* ✅ **Explorer** - Unlock new dimensions. The first tier pays **$50,000** plus obsidian and fire charges just for unlocking your Nether island.
+Start with **Getting Started**. It teaches the island basics and earns you the **Spark**, **Wisp**, and **Nova** ranks, plus your first two generator speed upgrades. The **Miner**, **Farmer**, **Fisherman**, and **Slayer** chapters open as you progress through Getting Started. The **Explorer** chapter opens after Graduation and is an island level ladder that climbs to level 250,000.
 
-Missions only count progress while you are on your island.
+Rewards pay out automatically when you finish a mission, and the menu shows a live progress counter for every requirement, so you always know how close you are. Mission progress only counts while you are on your island.
+
+See the full list of all 67 missions: [Island Missions](https://ss-organization-21.gitbook.io/villemc/getting-started/skyville/island-missions)
 
 ***
 
@@ -135,7 +131,7 @@ There is also a Minion Crate with upgrades to make them stronger.
 * ⭐ **Sell Wands** - Right-click a chest with a sell wand to sell everything inside at once. Tier I and Tier II available.
 * ⭐ **Player Market** (/market) - Buy and sell with other players.
 * ⭐ **Auction House** (/ah) - List items for auction.
-* ⭐ **Missions** - Direct cash payouts. Explorer tier I alone pays $50,000.
+* ⭐ **Missions** - Direct cash payouts. A full clear of all 67 missions pays $2,131,250.
 * ⭐ **Pay** (/pay) - Send money to other players. Check the richest with /baltop.
 
 There is also a credits currency called **vbits** (/vbits) shared across the whole network.
@@ -194,8 +190,8 @@ Everyone gets **/fly** as a shortcut for island flight.
 
 ### **Tips for New Players**
 
-* ⭐ Do your Miner missions first. Tier I upgrades your generator for free, which speeds up everything else.
-* ⭐ Save up for the Explorer tier I Nether unlock. $50,000 is a huge early boost.
+* ⭐ Work through **Getting Started** first. It grants your first two generator speed upgrades and the Spark, Wisp, and Nova ranks, and everything else builds on it.
+* ⭐ Finish Getting Started to open the **Explorer** chapter. Its five island level missions pay $595,000 in total, the biggest mission rewards on the server.
 * ⭐ Iridium needs a diamond pickaxe. Don't waste time trying with iron.
 * ⭐ Iron Golem spawners are the fastest way to climb the island leaderboard.
 * ⭐ Team up early. More members means faster missions, bigger builds, and shared resources.
