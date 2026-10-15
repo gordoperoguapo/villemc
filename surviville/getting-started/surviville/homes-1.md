@@ -1,40 +1,53 @@
 ---
-description: How to create a chest shop to buy and sell items.
+description: >-
+  How player shops work in Surviville, creating your own shop, trading, and
+  finding shops.
 icon: house-chimney-user
 ---
 
-# Chestshops
+# Player Shops
 
-Chestshops allow you to buy and sell items in Surviville.&#x20;
-
-***
-
-### Create Shop
-
--To set the sold item, you should first put your item in the first slot in the chest
-
--Place a sign on a chest
-
--Write in first Line \[Shop] to create a shop
-
--in the 2nd line you can set the selling price (e.g. 100 = $100). If you want your chest to buy items from other players, just write a "b" before or behind the price\
-in the fourth line, you can specify the desired quantity that you want to sell or buy at that price.
-
-now you can click on Done, and your store sign should have been created\
-<br>
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+Player shops let you buy items from other players and sell your own, right from a chest. A shop shows the item floating above it and a sign with the price. Find one, trade with it, or open your own.
 
 ***
 
-### Commands
+### Create a Shop
 
-✅ `/chestshop info` - Get information on a chestshop that you are looking at.\
-✅ `/chestshop search <item>` - Find a chestshop with a certain item.<br>
+* Place a chest, trapped chest, or barrel where you want your shop
+* Hold the item you want to sell in your main hand
+* Look at the container and type `/quickshop create <price>` (example: `/quickshop create 50` sells at $50 per item)
+* Put stock in the container. Your shop sells from what is inside it
+
+Creating a shop is free. A new shop starts out selling. Buy shops work the other way: other players sell items to your shop and you pay them, so keep money in your balance and room in the container.
+
+***
+
+### Managing Your Shop
+
+Look at your shop and use:
+
+✅ `/quickshop sell` - Switch your shop to selling mode ✅ `/quickshop buy` - Switch your shop to buying mode ✅ `/quickshop price <price>` - Change the price per item ✅ `/quickshop remove` - Remove the shop
+
+You can also right-click the shop's sign to open the control panel, where you can change the price, switch modes, or remove the shop. Right-click the container itself to open it and restock.
+
+***
+
+### Trading at a Shop
+
+* Left-click the shop (the container, the sign, or the floating item)
+* Type how many items you want in chat
+* The trade happens right away: money comes out of your balance when you buy, and you get paid when you sell to a buying shop
+
+A 5% tax applies to shop trades, paid by the player using the shop.
+
+***
+
+### Finding Shops
+
+✅ `/quickshop find <item>` - Find shops trading a certain item
 
 ***
 
 ### Tips and Good to Know
 
-⭐ You can crouch to buy stacks of an item\
-⭐ Be mindful of chest limits when building a shop
+⭐ Prices are per single item, so price carefully before you stock up ⭐ A selling shop stops selling when the container runs out of stock ⭐ A buying shop stops buying when the container is full or the owner's balance runs out ⭐ Only the shop owner can open the shop container
